@@ -129,6 +129,7 @@ These scientific articles cite Judge0.
 * [A comparison between online compilers: A Case Study](https://ieeexplore.ieee.org/document/9797096/)
 * [ADAPTIVE MENTORING WITH IMMEDIATE FEEDBACK FOR THE DEVELOPMENT OF PROGRAMMING SKILLS](https://library.iated.org/view/PEREZROJAS2024ADA)
 * [AI-Powered Code Evaluation and Learning Assessment Platform](https://www.researchgate.net/publication/400479340_AI-Powered_Code_Evaluation_and_Learning_Assessment_Platform)
+* [Adaptive Multimodal AI-Driven Assessment Framework using Generative AI and Behavioral Analytics](https://ieeexplore.ieee.org/abstract/document/11619899)
 * [Advanced lab analysis system using apache spark](https://pubs.aip.org/aip/acp/article/2492/1/030016/2892049)
 * [Agent Harness Engineering: A Survey](https://openreview.net/forum?id=3hXEPbG0dh)
 * [An Online Judge System in Learning Management System](https://books.google.hr/books?id=KxyLEQAAQBAJ&lpg=PA327&ots=f0nMFB8KtH&lr=lang_en&pg=PA327#v=onepage&q&f=false)
